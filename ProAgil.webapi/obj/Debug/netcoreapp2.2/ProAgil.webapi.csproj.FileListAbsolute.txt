@@ -1,0 +1,14 @@
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\bin\Debug\netcoreapp2.2\ProAgil.webapi.deps.json
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\bin\Debug\netcoreapp2.2\ProAgil.webapi.runtimeconfig.json
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\bin\Debug\netcoreapp2.2\ProAgil.webapi.runtimeconfig.dev.json
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\bin\Debug\netcoreapp2.2\ProAgil.webapi.dll
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\bin\Debug\netcoreapp2.2\ProAgil.webapi.pdb
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\obj\Debug\netcoreapp2.2\ProAgil.webapi.csprojAssemblyReference.cache
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\obj\Debug\netcoreapp2.2\ProAgil.webapi.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\obj\Debug\netcoreapp2.2\ProAgil.webapi.RazorAssemblyInfo.cache
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\obj\Debug\netcoreapp2.2\ProAgil.webapi.RazorAssemblyInfo.cs
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\obj\Debug\netcoreapp2.2\ProAgil.webapi.AssemblyInfoInputs.cache
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\obj\Debug\netcoreapp2.2\ProAgil.webapi.AssemblyInfo.cs
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\obj\Debug\netcoreapp2.2\ProAgil.webapi.RazorTargetAssemblyInfo.cache
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\obj\Debug\netcoreapp2.2\ProAgil.webapi.dll
+C:\Users\guilherme.niederle\Desktop\UdemyCSharpProject\ProAgil.webapi\obj\Debug\netcoreapp2.2\ProAgil.webapi.pdb
